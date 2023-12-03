@@ -4,7 +4,7 @@ Afiliya is Application to increase the visibility of culturally rich Indonesian 
 
 ## Project Details
 
-// - Team ID: CH2-PS070
+- Team ID: CH2-PS070
 - Advisors:
   - B23-A419 - Indah Widowati - Business/Commerce/Startup (mentoring done on 29th November 2023)
 
